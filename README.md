@@ -1,4 +1,4 @@
-# Ingernieria de Software
+# Ingenieria de Software
 ## Resumen
 *En el siguiente repositorio se almacenarán todos los documentos del proyecto de Ingernieria de Software*
 
