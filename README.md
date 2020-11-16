@@ -14,7 +14,7 @@
 **Curso**
 - 7mo "A
 
-**Documentacion**
+**Documentación**
 - Plan del Proyecto
   - Contiene el inicio de la definición del proyecto.
 - Estimación de Costos
