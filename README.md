@@ -11,8 +11,8 @@
 - David Nejer
 - Marco Ayala
 
-## Curso
-**7mo "A"**
+**Curso**
+- 7mo "A
 
 **Documentacion**
 - Plan del Proyecto
