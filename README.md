@@ -11,6 +11,9 @@
 - David Nejer
 - Marco Ayala
 
+## Curso
+**7mo "A"**
+
 **Documentacion**
 - Plan del Proyecto
   - Contiene el inicio de la definición del proyecto.
