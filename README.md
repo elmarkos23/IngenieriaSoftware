@@ -1,8 +1,8 @@
-# IngernieriaSoftware
->Resumen
+# Ingernieria de Software
+##Resumen
 *En el siguiente repositorio se almacenarán todos los documentos del proyecto de Ingernieria de Software*
 
->Nombre del Proyecto:
+##Nombre del Proyecto:
 **SISTEMA DE DOCUMENTACION DIGITAL DE LIBROS DE HISTORIA NACIONAL DEL ECUADOR**
 
 **Integrantes**
@@ -10,7 +10,6 @@
 - Angel Gualotuña
 - David Nejer
 - Marco Ayala
-
 
 **Documentacion**
 - Plan del Proyecto
@@ -24,4 +23,6 @@
 
 Documento Adicional
   - Contiene el Anexos de recursos financieros en base a los calculo de valores por concepto.
+  
+  
 
