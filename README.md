@@ -1,8 +1,8 @@
 # Ingernieria de Software
-##Resumen
+## Resumen
 *En el siguiente repositorio se almacenarán todos los documentos del proyecto de Ingernieria de Software*
 
-##Nombre del Proyecto:
+## Nombre del Proyecto:
 **SISTEMA DE DOCUMENTACION DIGITAL DE LIBROS DE HISTORIA NACIONAL DEL ECUADOR**
 
 **Integrantes**
