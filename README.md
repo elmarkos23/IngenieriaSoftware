@@ -15,7 +15,7 @@
 - 7mo "A
 
 
-**Documentación**
+## Documentación
 **1 Grupo de Procesos de Iniciación**
 
 - Plan del Proyecto
